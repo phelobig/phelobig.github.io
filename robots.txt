@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://phelobig.github.io/touchunique-site/sitemap.xml
+Sitemap: https://phelobig.github.io/touchunique-app/sitemap.xml
